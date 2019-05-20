@@ -2,10 +2,10 @@
 
 ## Index
 
-1. [Description] (#description)
-2. [Developers] (#developers)
-3. [Project 1 and 2] (#project-1-and-2)
-4. [Project 3] (#project-3)
+1. [Description](#description)
+2. [Developers](#developers)
+3. [Project 1 and 2](#project-1-and-2)
+4. [Project 3](#project-3)
 
 
 ***
@@ -19,8 +19,8 @@ We developed projects written in [JavaScript] (https://en.wikipedia.org/wiki/Jav
 
 ### Developers
 
-* [Marta Lopes] (https://github.com/martapips)
-* [Pedro Fraga] (https://github.com/pedrofraga) 
+* [Marta Lopes](https://github.com/martalopes)
+* [Pedro Fraga](https://github.com/pedrofraga) 
 
 ***
 
